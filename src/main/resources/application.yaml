@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: sentinel
+server:
+  servlet:
+    context-path: /sentinel
+
